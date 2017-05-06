@@ -84,6 +84,7 @@ hi@illusion.ai
   padding-top: 25px;
   height: 0;
   width: 100%;
+  overflow: hidden;
 }
 
 .cui__bubble--embed iframe {
